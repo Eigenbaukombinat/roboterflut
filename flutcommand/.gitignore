@@ -1,0 +1,6 @@
+*.swp
+share
+lib
+lib64
+bin
+__pycache__

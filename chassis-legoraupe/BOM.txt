@@ -1,0 +1,6 @@
+4;Lego 32007;0.15;0.6
+2;Lego 680c01;0.80;1.6
+1;Dagu Micro DC Down Speed Gear Motor Pack of 2;5;5
+1;L9110 dual motor treiber;1.19;1.19
+2;batteriefach 3xaa;1;2
+
